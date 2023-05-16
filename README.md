@@ -2,6 +2,8 @@
 # CPSC 335 - Algorithm Engineering
 # Spring 2023
 # Instructor: Himani Tawade
+# Members : Youssef Hegazy -- YoussefH@CSU.Fullerton.edu
+# Solo Project.
 
 **Clone This repository into your repository and implement the code, along with a document with required details mentioned at the last, a demo video, readme file and .gitignore file. Submission will be a git repo link with all the requirements updated to repo on canvas.**
 
